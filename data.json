@@ -4,7 +4,16 @@
             {
                 "topic": "credit report",
                 "titles": [
-                    "1", "2", "3", "4", "5", "6", "7", "8", "9", "10"
+                    "What is a credit report and why is it important?",
+                    "How can I get a copy of my credit report for free?",
+                    "What are the most common errors found on credit reports?",
+                    "How often should I check my credit report?",
+                    "Can I dispute errors on my credit report and how?",
+                    "What factors affect my credit score and how are they reflected on my credit report?",
+                    "How long do negative items stay on my credit report?",
+                    "What should I do if I discover fraudulent activity on my credit report?",
+                    "How do I improve my credit score based on my credit report?",
+                    "What impact does my credit report have on my ability to get approved for credit?"
                 ],
                 "text": [
                     {
@@ -36,7 +45,16 @@
             {
                 "topic": "payday loans",
                 "titles": [
-                    "1", "2", "3", "4", "5", "6", "7", "8", "9", "10"
+                    "What are payday loans and how do they work?",
+                    "What are the dangers of using payday loans?",
+                    "How do payday loans affect your credit score?",
+                    "What are the alternatives to using payday loans?",
+                    "Can payday loan companies garnish wages or seize property?",
+                    "How do I know if a payday loan company is legitimate?",
+                    "What are the laws and regulations surrounding payday loans in my state?",
+                    "What should I consider before taking out a payday loan?",
+                    "How do I pay off my payday loans and avoid debt traps?",
+                    "Can I get a payday loan with bad credit?"
                 ],
                 "text": [
                     {
@@ -62,30 +80,39 @@
                 ]
             },
             {
-                "topic": "auto insurance quotes",
+                "topic": "credit cards",
                 "titles": [
-                    "1", "2", "3", "4", "5", "6", "7", "8", "9", "10"
+                    "How do credit cards work and what are their benefits?",
+                    "2What are the different types of credit cards and their features?",
+                    "How do I choose the right credit card for me?",
+                    "What is a credit card interest rate and how does it affect me?",
+                    "How do I apply for a credit card and what are the requirements?",
+                    "What are the fees and charges associated with credit cards?",
+                    "How can I use my credit card responsibly and avoid debt?",
+                    "What are the rewards programs associated with credit cards and how do they work?",
+                    "What should I do if my credit card is lost or stolen?",
+                    "How can I improve my credit score using my credit card?"
                 ],
                 "text": [
                     {
-                        "title": "What are Auto Insurance Quotes?",
-                        "paragraph": "Auto insurance quotes are estimates of how much you can expect to pay for car insurance coverage based on information you provide about yourself, your car, and your driving history. Quotes can be obtained online, over the phone, or in person from various insurance providers."
+                        "title": "What are Credit Cards?",
+                        "paragraph": "Credit cards are payment cards issued by financial institutions that allow cardholders to make purchases on credit. When a credit card is used, the card issuer pays the merchant on behalf of the cardholder, and the cardholder is then responsible for repaying the card issuer at a later date."
                     },
                     {
-                        "title": "How to Obtain Auto Insurance Quotes?",
-                        "paragraph": "To obtain auto insurance quotes, you will typically need to provide information such as your name, address, date of birth, and driver's license number. You will also need to provide details about your vehicle, including its make, model, and year, as well as its usage and safety features. Additionally, you will be asked about your driving history and insurance coverage needs."
+                        "title": "Types of Credit Cards",
+                        "paragraph": "Credit cards are available in various types, including rewards cards, travel cards, cashback cards, balance transfer cards, and secured cards. Each type of card offers different benefits and features, such as lower interest rates or higher rewards for certain purchases."
                     },
                     {
-                        "title": "Factors that Affect Auto Insurance Quotes",
-                        "paragraph": "Several factors can affect the cost of auto insurance quotes, including your age, gender, driving record, credit score, location, and the type of car you drive. Additionally, the coverage limits and deductibles you choose will also impact the cost of your insurance premiums."
+                        "title": "Applying for Credit Cards",
+                        "paragraph": "To apply for a credit card, you will typically need to provide personal information such as your name, address, date of birth, and social security number. You will also need to provide financial information, such as your income and employment status. Additionally, most credit card issuers will require a credit check before approving your application."
                     },
                     {
-                        "title": "Comparing Auto Insurance Quotes",
-                        "paragraph": "It is important to compare auto insurance quotes from multiple providers to ensure you are getting the best coverage at the most affordable price. When comparing quotes, consider factors such as coverage limits, deductibles, and exclusions, as well as the reputation and financial stability of the insurance provider."
+                        "title": "Using Credit Cards",
+                        "paragraph": "Credit cards can be used to make purchases both online and in-store. Cardholders can also use their credit cards to withdraw cash from ATMs, although this can be expensive due to cash advance fees and higher interest rates. To avoid interest charges, it is important to pay off the balance in full each month or make timely payments on any outstanding balances."
                     },
                     {
-                        "title": "Tips for Lowering Auto Insurance Quotes",
-                        "paragraph": "There are several ways to lower your auto insurance quotes, including maintaining a clean driving record, improving your credit score, bundling your insurance policies, and increasing your deductibles. Additionally, you can ask about available discounts, such as safe driver discounts or multi-car discounts, that may be available to you."
+                        "title": "Benefits of Credit Cards",
+                        "paragraph": "Credit cards offer various benefits to cardholders, including fraud protection, purchase protection, travel insurance, and access to exclusive events and offers. Additionally, many credit cards offer rewards programs, which allow cardholders to earn cash back, points, or miles for each purchase made with the card. These rewards can be redeemed for statement credits, merchandise, or travel expenses. However, it is important to use credit cards responsibly and avoid carrying a balance or using credit to make unnecessary purchases."
                     }
                 ]
             }
