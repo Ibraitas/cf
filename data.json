@@ -2,7 +2,8 @@
     "data": {
         "items": [
             {
-                "topic": "credit cards",
+                "vertical": "finance",
+                "topic": "credit_cards",
                 "title": "How to Use Credit Cards Wisely and Avoid Debt",
                 "introduction": "Credit cards can be a powerful financial tool, providing convenience and flexibility when it comes to making purchases. However, if not used wisely, credit cards can quickly lead to debt and financial stress. In this article, we'll explore how to use credit cards wisely and avoid common pitfalls.",
                 "related_searches": [
@@ -61,7 +62,8 @@
                 ]
             },
             {
-                "topic": "payday loans",
+                "vertical": "finance",
+                "topic": "payday_loans",
                 "title": "The Pros and Cons of Payday Loans",
                 "introduction": "Payday loans are short-term loans that offer quick cash to individuals who need it urgently. They are designed to be repaid on the borrower's next payday, hence the name. However, payday loans come with high interest rates and fees, and can lead to a cycle of debt for some borrowers. In this article, we will explore the pros and cons of payday loans and provide insights into whether they are a good option for you.",
                 "related_searches": [
@@ -124,6 +126,7 @@
                 ]
             },
             {
+                "vertical": "automotive",
                 "title": "Auto Insurance: Everything You Need to Know",
                 "introduction": "Auto insurance is a critical part of owning and driving a car. Not only is it legally required in most states, but it also provides protection in the event of an accident. In this article, we'll cover everything you need to know about auto insurance, from the types of coverage available to how to find the best policy for your needs.",
                 "related_searches": [
@@ -212,7 +215,8 @@
                 ]
             },
             {
-                "topic": "credit cards",
+                "vertical": "finance",
+                "topic": "credit_cards",
                 "title": "Credit Cards: Understanding the Basics",
                 "introduction": "Credit cards can be a useful tool for managing your finances, but it's important to understand how they work before you start using them. This guide will provide an overview of credit cards and the key terms you need to know.",
                 "related_searches": [
